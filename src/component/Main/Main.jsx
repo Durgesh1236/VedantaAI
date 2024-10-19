@@ -3,7 +3,7 @@ import "./Main.css";
 import { assets } from "../../assets/assets";
 import { useContext } from "react";
 import { Context } from "../../context/content";
-import Navbar from "./navbar";
+import Navbar from "./Navbar";
 import Card from "./Card";
 const Main = () => {
 
