@@ -37,7 +37,7 @@ const Main = () => {
                                     <span>Hello, Dev.</span>
                                 </p>
                                 <p>
-                                    How can I help you today
+                                This website is Developed By Durgesh Kumar.
                                 </p>
                             </div>
 
