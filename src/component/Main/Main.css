@@ -13,6 +13,7 @@
     font-size: 22px;
     padding: 20px;
     color: #585858;
+    /* background-color: #c6c3c3; */
 }
 
 .main .nav img {
@@ -186,6 +187,12 @@
 }
 
 @media(max-width:600px) {
+    .main-bottom{
+        position: fixed;
+        overflow: hidden;
+        background-color: #c6c3c3;
+        border-radius: 8px;
+    }
     .main-bottom input {
         flex: none;
         width: 150px;
@@ -197,9 +204,14 @@
 
     .search-box {
         padding: 5px 10px;
+        margin-top: 20px;
     }
 
     .search-box div {
         gap: 5px;
+    }
+    .main .nav{
+        background-color: #c6c3c3;
+        padding: 15px;
     }
 }
