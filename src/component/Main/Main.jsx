@@ -42,9 +42,9 @@ const Main = () => {
                             </div>
 
                                 {/* Card-container */}
-                            {
+                            {/* {
                             < Card />
-                             }
+                             } */}
 
                         </> : <div className="result">
                             <div className="result-title">
